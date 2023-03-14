@@ -1,6 +1,40 @@
 Challenge 14 CU Fintech
 Andrew R. Bader
 
+# Project Title
+
+Robo Advisor
+
+__
+
+
+## Technologies
+
+This project uses the Python with Jupyter notebook, pandas, pathlib, hvplot, matplotlib, sklearn, and dependencies from sklearn
+
+___
+
+## Installation Guide
+
+To clone and use:
+1) make a local directory for this github repository
+2) clone down this repo with git clone command
+3) cd into cloned repo
+4) install depedencies pandas, numpy, pathlib, sklearn and hvplot
+5) run in Jupyter notebook
+
+---
+
+## Contributor
+
+Andrew Ryan Bader
+
+---
+
+## License
+
+N/A
+
 
 Evaluation Report:
 
